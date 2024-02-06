@@ -1,0 +1,8 @@
+vendor/
+local/
+.idea
+composer.lock
+.phpunit.result.cache
+bullhorn-auth-store.json
+zoom-auth-store.json
+.env
